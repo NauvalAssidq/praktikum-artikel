@@ -40,10 +40,10 @@ Pada minggu ketiga, fokus utama adalah memastikan semua fitur dasar yang dibuat 
 
 ---
 
-## ✔️ Status  
+## Status  
 Semua item yang dikerjakan pada Minggu 2 telah ditinjau dan divalidasi pada Minggu 3.
 
 ---
 
-## 📎 Catatan Tambahan  
+## Catatan Tambahan  
 Dokumentasi ini akan diperbarui seiring bertambahnya progres setiap minggunya.
